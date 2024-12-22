@@ -51,7 +51,8 @@
 
 -------
 
-![img](https://github.com/zerotwo0x00/alphaMap/blob/main/img.png?raw=true)
 ### 什么时候公测？
 
 **我也不知道，就想先写个readme放在这里，可能写完会先给团队成员用一下试试吧QWQ**
+
+![img](https://github.com/zerotwo0x00/alphaMap/blob/main/img.png?raw=true)
